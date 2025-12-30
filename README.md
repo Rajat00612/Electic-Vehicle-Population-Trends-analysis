@@ -1,3 +1,7 @@
+<img width="1390" height="794" alt="Final Dashbord image" src="https://github.com/user-attachments/assets/f0ea55f1-694b-425b-9d56-5c7e2b7a1e89" />
+
+
+
 # ⚡ Electric Vehicle Population Trend Analysis Dashboard
 
 **Data Analytics | Power BI | Electric Vehicles & Sustainability**
@@ -36,4 +40,63 @@ The Power BI dashboard includes:
 - 🔌 **Top Electric Utility Providers**
 - 🎛️ **Interactive Slicers (Year, County, Clean Alternative Fuel)**
 
-All visuals are interconnected and respond dynamica
+All visuals are interconnected and respond dynamically to user selections.
+
+---
+
+## 💡 3️⃣ Key Insights
+
+- **Tesla** dominates the EV market, followed by Volvo and Ford  
+- EV adoption has increased rapidly in recent years, indicating strong sustainability momentum  
+- **Seattle** leads city-level EV adoption by a large margin  
+- Battery Electric Vehicles (BEVs) represent the majority share of EVs  
+- A small number of electric utilities support a significant portion of EV users  
+
+---
+
+## 📌 4️⃣ Business Recommendations
+
+- Expand charging infrastructure in **high-adoption cities and counties**  
+- Strengthen collaboration with leading electric utility providers  
+- Promote BEV adoption through policy incentives and awareness programs  
+- Use EV growth trends to forecast future electricity demand  
+- Encourage investment in clean mobility and sustainable transportation  
+
+---
+
+## 🛠️ 5️⃣ Tools & Techniques Used
+
+- **Microsoft Power BI**
+- Power Query (Data Cleaning & Transformation)
+- DAX Measures & Calculated Columns
+- Data Modeling (Relationships)
+- KPI Cards & Trend Analysis
+- Interactive Dashboards & Slicers
+
+---
+
+## 📂 Dataset & Files
+
+- 📊 **Power BI Dashboard (.pbix)**  
+  [Download Here](https://drive.google.com/your-link)
+
+- 📄 **Project Presentation (PPT)**  
+  [View Presentation](https://drive.google.com/your-link)
+
+- 📁 **Dataset Source**  
+  Electric Vehicle Population Data
+
+---
+
+## 📝 Conclusion
+
+This project demonstrates how **Power BI dashboards** can effectively convert large EV datasets into meaningful insights.  
+The interactive dashboard enables stakeholders to explore EV trends, infrastructure support, and clean energy adoption, supporting data-driven sustainability planning.
+
+---
+
+## 🌐 Author
+
+**Rajat Kumar**
+
+⭐ If you found this project useful, consider starring the repository!
