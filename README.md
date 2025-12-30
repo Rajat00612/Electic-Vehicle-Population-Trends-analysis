@@ -78,10 +78,7 @@ All visuals are interconnected and respond dynamically to user selections.
 ## 📂 Dataset & Files
 
 - 📊 **Power BI Dashboard (.pbix)**  
-  [Download Here](https://drive.google.com/your-link)
-
-- 📄 **Project Presentation (PPT)**  
-  [View Presentation](https://drive.google.com/your-link)
+  [Download Here][(https://drive.google.com/your-link)](https://drive.google.com/drive/folders/16H_IgyAZUogM2epWek3v8Mu-p5zu8n_n?usp=sharing)
 
 - 📁 **Dataset Source**  
   Electric Vehicle Population Data
